@@ -54,18 +54,7 @@
 > node amoy
 ```
 
-marsa.sendFakeStatus(from, teks, fake)
-// bisa diubah menjadi
-marsa.FakeStatusForwarded(from, teks, fake)
 
-marsa.sendFakeStatusWithImg(from, image, caption, faketeks)
-// bisa diubah menjadi
-marsa.FakeStatusImgForwarded(from, image, caption, faketeks)
-
-marsa.sendFakeToko(from, teks, fake)
-// bisa diubah menjadi
-marsa.FakeTokoForwarded(from, teks, fake)
-```
 
 ## Installing the FFmpeg
 * Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
