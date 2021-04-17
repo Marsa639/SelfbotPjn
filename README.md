@@ -133,6 +133,7 @@ atau bisa juga
 | Kick|✅|
 | Add|✅|
 | Eval|✅|
+
 | MAKER |✅|
 | --------- | --------- |
 | tahta|✅|
