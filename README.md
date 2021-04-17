@@ -15,7 +15,6 @@
   <a href="https://github.com/Marsa639/SelfbotPjn#requirements">Requirements</a> •
   <a href="https://github.com/Marsa639/SelfbotPjn#instalasi">Installation</a> •
   <a href="https://github.com/Marsa639/SelfbotPjn#features">Features</a> •
-  <a href="https://trakteer.id/Marsa">Buy Me A Coffe</a> •
   <a href="https://github.com/Marsa639/SelfbotPjn#thanks-to">Thanks to</a>
 </p>
 </div>
