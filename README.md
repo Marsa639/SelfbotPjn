@@ -128,13 +128,16 @@ atau bisa juga
 | Image Tag|✅|
 | Kontak Tag|✅|
 | Forwarded Message|✅|
-| Eval|✅|
-| Tahta|✅|
-| Pubg|✅|
 | Promote|✅|
 | Demote|✅|
 | Kick|✅|
 | Add|✅|
+| Eval|✅|
+| --------- | --------- |
+| MAKER |✅|
+| --------- | --------- |
+| tahta|✅|
+| pubg|✅|
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
